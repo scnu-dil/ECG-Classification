@@ -5,7 +5,7 @@ This repo is a hub to provide important papers with code in the field of ECG cla
 最常见的ECG信号分类标准AAMI EC57标准：[AAMI EC57标准在ECG信号分类中的使用](https://blog.csdn.net/amilylwy/article/details/53446143)
 
 # 心电数据注释含义
-[心电书籍注释含义](https://physionet.org/physiobank/annotations.shtml)
+[心电数据注释含义](https://physionet.org/physiobank/annotations.shtml)
 
 # ECG Classification Papers
 
